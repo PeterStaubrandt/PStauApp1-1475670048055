@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: PStauApp1
+  host: PStauApp1
+  disk_quota: 1024M
